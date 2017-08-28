@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMRSToCKL", "CMRSToCKL\CMRSToCKL.csproj", "{765F8997-4248-4F3C-A489-AC3A53F1223D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMRSUtil", "CMRSConverter\CMRSUtil.csproj", "{94221458-5EDA-4CDF-B7D2-5F1CA106E659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{765F8997-4248-4F3C-A489-AC3A53F1223D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765F8997-4248-4F3C-A489-AC3A53F1223D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765F8997-4248-4F3C-A489-AC3A53F1223D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765F8997-4248-4F3C-A489-AC3A53F1223D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94221458-5EDA-4CDF-B7D2-5F1CA106E659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94221458-5EDA-4CDF-B7D2-5F1CA106E659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94221458-5EDA-4CDF-B7D2-5F1CA106E659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94221458-5EDA-4CDF-B7D2-5F1CA106E659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
